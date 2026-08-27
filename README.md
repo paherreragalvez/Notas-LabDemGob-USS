@@ -1,10 +1,9 @@
 # Notas-LabDemGob-USS
 ReadMe de apuntes relevantes para Ayudantía de Investigación USS
+* <a href="https://****" target="_blank">****</a>
 
 Creación de bases de datos.
-* https://github.com/paherreragalvez/geRmany
-
-* <a href="https://google.com" target="_blank">Texto</a>
+* <a href="https://github.com/paherreragalvez/geRmany" target="_blank">Notas DEval</a>. Creación de data set maestro, con información de distintas instituciones usando R. Foco en información sobre democracia y corrupción internacional.
 
 Bases de datos que he usado.
 * Casen (National Survey of Socioeconomic Characterization - Chile).
