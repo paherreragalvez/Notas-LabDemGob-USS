@@ -1,6 +1,5 @@
-# Notas-LabDemGob-USS
+# Notas LabDemGob USS
 ReadMe de apuntes relevantes para Ayudantía de Investigación USS
-* <a href="https://****" target="_blank">****</a>
 
 Scripts de creación de bases de datos.
 * <a href="https://github.com/paherreragalvez/geRmany" target="_blank">Notas DEval</a>. Creación de data set maestro usando R, con información de distintas organismos internacionales. Foco en datos de democracia, corrupción, transparencia y género. (_Ayudantía de investigación en Alemania_).
