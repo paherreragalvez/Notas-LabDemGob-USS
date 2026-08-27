@@ -16,5 +16,5 @@ Bases de datos con las que he trabajado.
 
 Otros programación.
 * <a href="https://github.com/paherreragalvez/Stata-dofiles/" target="_blank">Scripts de Stata.</a> Códigos de Stata. (_Pregrado en Economía y trabajo en el Ministerio de Desarrollo Social_).
-* <a href="https://github.com/paherreragalvez/r_big_data_science" target="_blank">Scripts de R.</a> Códigos de Stata.
-* <a href="https://github.com/paherreragalvez/woRksheets" target="_blank">Material pedagógico de R.</a> Códigos de Stata.
+* <a href="https://github.com/paherreragalvez/r_big_data_science" target="_blank">Scripts de R.</a> Códigos de Machine Learning usando R. (_Diplomado en Big Data y Ciencia de Datos_).
+* <a href="https://github.com/paherreragalvez/woRksheets" target="_blank">Material pedagógico de R.</a> Compiñado de códigos básicos de R.
