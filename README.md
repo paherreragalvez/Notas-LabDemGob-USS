@@ -4,7 +4,7 @@ ReadMe de apuntes relevantes para Ayudantía de Investigación USS
 Creación de bases de datos.
 * https://github.com/paherreragalvez/geRmany
 
-* <a href="google.com" target="_blank">Texto</a>
+* <a href="https://google.com" target="_blank">Texto</a>
 
 Bases de datos que he usado.
 * Casen (National Survey of Socioeconomic Characterization - Chile).
